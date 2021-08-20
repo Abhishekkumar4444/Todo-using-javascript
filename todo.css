@@ -50,6 +50,7 @@ body{
 .inputField input:focus{
   border-color: #8E49E8;
 }
+
 .inputField button{
   width: 50px;
   height: 100%;
